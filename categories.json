@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"interest": "Tennis",
+	"category": "Sports",
+	"icon": "sportscourt"
+}, {
+	"id": 2,
+	"interest": "Sports",
+	"year": "1994",
+	"image": "sportscourt"
+}, {
+	"id": 3,
+	"interest": "Gym",
+	"category": "Sports",
+	"icon": "sportscourt"
+}]
