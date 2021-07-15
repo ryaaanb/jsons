@@ -6,7 +6,7 @@
 }, {
 	"id": 2,
 	"interest": "Sports",
-	"year": "1994",
+	"category": "Sports",
 	"image": "sportscourt"
 }, {
 	"id": 3,
